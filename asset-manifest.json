@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewReactPorfolio/static/css/main.38de8f4e.css",
+    "main.js": "/NewReactPorfolio/static/js/main.a6d0fdd6.js",
+    "static/media/armyboylogo.png": "/NewReactPorfolio/static/media/armyboylogo.7fabcd6961ff9ad5ec29.png",
+    "static/media/capefear.jpg": "/NewReactPorfolio/static/media/capefear.d402fc79bbc56bc62640.jpg",
+    "static/media/smileJulian.jpg": "/NewReactPorfolio/static/media/smileJulian.dbbed4cbbcbb1a79f5d2.jpg",
+    "index.html": "/NewReactPorfolio/index.html",
+    "main.38de8f4e.css.map": "/NewReactPorfolio/static/css/main.38de8f4e.css.map",
+    "main.a6d0fdd6.js.map": "/NewReactPorfolio/static/js/main.a6d0fdd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38de8f4e.css",
+    "static/js/main.a6d0fdd6.js"
+  ]
+}
