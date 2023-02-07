@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NewReactPortfolio/static/css/main.ffbc3f7f.css",
-    "main.js": "/NewReactPortfolio/static/js/main.ea952997.js",
-    "static/media/armyboylogo.png": "/NewReactPortfolio/static/media/armyboylogo.7fabcd6961ff9ad5ec29.png",
-    "static/media/capefear.jpg": "/NewReactPortfolio/static/media/capefear.d402fc79bbc56bc62640.jpg",
-    "static/media/smileJulian.jpg": "/NewReactPortfolio/static/media/smileJulian.dbbed4cbbcbb1a79f5d2.jpg",
-    "index.html": "/NewReactPortfolio/index.html",
-    "main.ffbc3f7f.css.map": "/NewReactPortfolio/static/css/main.ffbc3f7f.css.map",
-    "main.ea952997.js.map": "/NewReactPortfolio/static/js/main.ea952997.js.map"
+    "main.css": "./static/css/main.a1fa0f05.css",
+    "main.js": "./static/js/main.6fa5e963.js",
+    "static/media/armyboylogo.png": "./static/media/armyboylogo.7fabcd6961ff9ad5ec29.png",
+    "static/media/capefear.jpg": "./static/media/capefear.d402fc79bbc56bc62640.jpg",
+    "static/media/smileJulian.jpg": "./static/media/smileJulian.dbbed4cbbcbb1a79f5d2.jpg",
+    "index.html": "./index.html",
+    "main.a1fa0f05.css.map": "./static/css/main.a1fa0f05.css.map",
+    "main.6fa5e963.js.map": "./static/js/main.6fa5e963.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffbc3f7f.css",
-    "static/js/main.ea952997.js"
+    "static/css/main.a1fa0f05.css",
+    "static/js/main.6fa5e963.js"
   ]
 }
