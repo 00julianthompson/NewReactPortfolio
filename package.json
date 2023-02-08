@@ -1,14 +1,14 @@
 {
-  
+  "homepage": "https://00julianthompson.github.io/NewReactPortfolio",
+
   "name": "2022",
   
   "version": "0.1.0",
   
   "private": true,
   
-  "homepage": "https://00julianthompson.github.io/NewReactPortfolio",
   
-  "dependencies": {
+"dependencies": {
   
     
   "@fortawesome/fontawesome-svg-core": "^6.2.1",
@@ -134,10 +134,7 @@
   "devDependencies": {
   
     
-  "gh-pages": "^5.0.0",
-  
-    
-  "reinstall-node-modules": "^2.0.0"
+  "gh-pages": "^5.0.0"
   
   }
 }
